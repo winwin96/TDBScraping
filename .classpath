@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/jar/jsoup-1.14.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/json-20211205.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/poi-bin-5.2.1/commons-codec-1.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/poi-bin-5.2.1/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/poi-bin-5.2.1/commons-compress-1.21.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/poi-bin-5.2.1/commons-io-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/poi-bin-5.2.1/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/poi-bin-5.2.1/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/poi-bin-5.2.1/curvesapi-1.07.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/poi-bin-5.2.1/log4j-api-2.17.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/poi-bin-5.2.1/poi-5.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/poi-bin-5.2.1/poi-examples-5.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/poi-bin-5.2.1/poi-excelant-5.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/poi-bin-5.2.1/poi-javadoc-5.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/poi-bin-5.2.1/poi-ooxml-5.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/poi-bin-5.2.1/poi-ooxml-full-5.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/poi-bin-5.2.1/poi-ooxml-lite-5.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/poi-bin-5.2.1/poi-scratchpad-5.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/poi-bin-5.2.1/slf4j-api-1.7.36.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/poi-bin-5.2.1/SparseBitSet-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/poi-bin-5.2.1/xmlbeans-5.0.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
